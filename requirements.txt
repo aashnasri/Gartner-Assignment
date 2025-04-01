@@ -1,0 +1,10 @@
+requests
+dotenv
+openai
+langchain-text-splitters
+langchain_openai
+# langchain_experimental
+chromadb==0.4.22
+langchain_community
+numpy>=1.26.4,<2.0
+streamlit
